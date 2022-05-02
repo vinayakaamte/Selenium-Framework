@@ -1,0 +1,300 @@
+2022-04-25 18:13:31,179 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-25 18:13:31,326 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-25 18:13:31,348 [main] INFO eBanking - Openning URL
+2022-04-25 18:13:38,382 [main] INFO eBanking - Feattching titel of page
+2022-04-25 18:13:38,391 [main] INFO eBanking - Performaing Assert Equal with message
+2022-04-25 18:13:38,402 [main] INFO eBanking - Closing browser
+2022-04-26 11:00:51,184 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-26 11:00:51,419 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-26 11:00:51,498 [main] INFO eBanking - Openning URL
+2022-04-26 11:00:57,974 [main] INFO eBanking - Feattching titel of page
+2022-04-26 11:00:57,983 [main] INFO eBanking - Performaing Assert Equal with message
+2022-04-26 11:00:57,992 [main] INFO eBanking - Closing browser
+2022-04-26 11:19:42,583 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-26 11:19:42,774 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-26 11:19:42,791 [main] INFO eBanking - Openning URL
+2022-04-26 11:19:47,565 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-26 11:19:47,641 [main] INFO eBanking - Entering done in password Test Box
+2022-04-26 11:19:49,700 [main] INFO eBanking - Clicking on login button is done
+2022-04-26 11:19:49,700 [main] INFO eBanking - Feattching titel of page
+2022-04-26 11:19:49,712 [main] INFO eBanking - Performaing Assert Equal with message
+2022-04-26 11:19:49,718 [main] INFO eBanking - Closing browser
+2022-04-26 14:30:56,879 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-26 14:30:57,076 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-26 14:30:57,095 [main] INFO eBanking - Openning URL
+2022-04-26 14:31:01,206 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-26 14:31:01,307 [main] INFO eBanking - Entering done in password Test Box
+2022-04-26 14:31:02,877 [main] INFO eBanking - Clicking on login button is done
+2022-04-26 14:31:02,877 [main] INFO eBanking - Feattching titel of page
+2022-04-26 14:31:02,893 [main] INFO eBanking - Performaing Assert Equal with message
+2022-04-26 14:31:02,900 [main] INFO eBanking - Closing browser
+2022-04-26 14:34:59,738 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-26 14:34:59,894 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-26 14:34:59,919 [main] INFO eBanking - Openning URL
+2022-04-26 14:35:03,975 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-26 14:35:04,075 [main] INFO eBanking - Entering done in password Test Box
+2022-04-26 14:35:05,563 [main] INFO eBanking - Clicking on login button is done
+2022-04-26 14:35:05,564 [main] INFO eBanking - Feattching titel of page
+2022-04-26 14:35:05,575 [main] INFO eBanking - Performaing Assert Equal with message
+2022-04-26 14:35:05,580 [main] INFO eBanking - Closing browser
+2022-04-26 17:27:42,433 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-26 17:27:42,592 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-26 17:33:23,161 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-26 17:33:23,322 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-26 17:33:23,419 [main] INFO eBanking - Closing browser
+2022-04-26 17:39:45,844 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-26 17:39:46,047 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-26 17:39:46,085 [main] INFO eBanking - Closing browser
+2022-04-26 17:43:53,579 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-26 17:43:53,748 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-26 17:43:56,461 [main] INFO eBanking - Openning URL
+2022-04-26 17:44:01,612 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-26 17:44:01,711 [main] INFO eBanking - Entering done in password Test Box
+2022-04-26 17:44:06,526 [main] INFO eBanking - Clicking on login button is done
+2022-04-26 17:44:06,548 [main] INFO eBanking - Performaing Assert True with message
+2022-04-26 17:44:06,594 [main] INFO eBanking - Openning URL
+2022-04-26 17:44:08,311 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-26 17:44:08,396 [main] INFO eBanking - Entering done in password Test Box
+2022-04-26 17:44:11,853 [main] INFO eBanking - Clicking on login button is done
+2022-04-26 17:44:11,859 [main] INFO eBanking - Performaing Assert True with message
+2022-04-26 17:44:11,882 [main] INFO eBanking - Openning URL
+2022-04-26 17:44:14,600 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-26 17:44:14,690 [main] INFO eBanking - Entering done in password Test Box
+2022-04-26 17:44:18,155 [main] INFO eBanking - Clicking on login button is done
+2022-04-26 17:44:18,164 [main] INFO eBanking - Performaing Assert True with message
+2022-04-26 17:44:18,192 [main] INFO eBanking - Openning URL
+2022-04-26 17:44:20,939 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-26 17:44:21,022 [main] INFO eBanking - Entering done in password Test Box
+2022-04-26 17:44:25,182 [main] INFO eBanking - Clicking on login button is done
+2022-04-26 17:44:25,191 [main] INFO eBanking - Performaing Assert True with message
+2022-04-26 17:44:25,196 [main] INFO eBanking - Closing browser
+2022-04-26 17:49:22,679 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-26 17:49:22,869 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-26 17:49:23,908 [main] INFO eBanking - Openning URL
+2022-04-26 17:49:28,695 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-26 17:49:28,779 [main] INFO eBanking - Entering done in password Test Box
+2022-04-26 17:49:38,081 [main] INFO eBanking - Performaing Assert False with message
+2022-04-26 17:49:38,110 [main] INFO eBanking - Openning URL
+2022-04-26 17:49:38,205 [main] INFO eBanking - Openning URL
+2022-04-26 17:49:40,957 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-26 17:49:41,037 [main] INFO eBanking - Entering done in password Test Box
+2022-04-26 17:49:44,567 [main] INFO eBanking - Openning URL
+2022-04-26 17:49:47,293 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-26 17:49:47,371 [main] INFO eBanking - Entering done in password Test Box
+2022-04-26 17:49:55,933 [main] INFO eBanking - Performaing Assert False with message
+2022-04-26 17:49:55,937 [main] INFO eBanking - Closing browser
+2022-04-26 17:54:59,806 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-26 17:54:59,965 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-26 17:55:01,098 [main] INFO eBanking - Openning URL
+2022-04-26 17:55:05,216 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-26 17:55:05,299 [main] INFO eBanking - Entering done in password Test Box
+2022-04-26 17:55:15,884 [main] INFO eBanking - Performaing Assert False with message
+2022-04-26 17:55:15,893 [main] INFO eBanking - Openning URL
+2022-04-26 17:55:17,192 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-26 17:55:17,276 [main] INFO eBanking - Entering done in password Test Box
+2022-04-26 17:55:20,817 [main] INFO eBanking - Openning URL
+2022-04-26 17:55:23,610 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-26 17:55:23,692 [main] INFO eBanking - Entering done in password Test Box
+2022-04-26 17:55:27,226 [main] INFO eBanking - Openning URL
+2022-04-26 17:55:29,890 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-26 17:55:29,959 [main] INFO eBanking - Entering done in password Test Box
+2022-04-26 17:55:40,217 [main] INFO eBanking - Performaing Assert False with message
+2022-04-26 17:55:40,226 [main] INFO eBanking - Closing browser
+2022-04-27 20:56:26,909 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-27 20:56:27,215 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-27 20:56:27,230 [main] INFO eBanking - Openning URL
+2022-04-27 20:56:32,308 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-27 20:56:32,399 [main] INFO eBanking - Entering done in password Test Box
+2022-04-27 20:56:33,881 [main] INFO eBanking - Clicking on login button is done
+2022-04-27 20:56:38,274 [main] INFO eBanking - Providing customer details....
+2022-04-27 20:56:46,364 [main] INFO eBanking - Validation Started......
+2022-04-27 20:56:46,467 [main] INFO eBanking - Closing browser
+2022-04-27 20:58:56,546 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-27 20:58:56,692 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-27 20:58:56,708 [main] INFO eBanking - Openning URL
+2022-04-27 20:59:00,496 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-27 20:59:00,586 [main] INFO eBanking - Entering done in password Test Box
+2022-04-27 20:59:01,819 [main] INFO eBanking - Clicking on login button is done
+2022-04-27 20:59:06,851 [main] INFO eBanking - Providing customer details....
+2022-04-27 20:59:14,100 [main] INFO eBanking - Validation Started......
+2022-04-27 20:59:14,199 [main] INFO eBanking - Closing browser
+2022-04-27 21:02:13,462 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-27 21:02:13,607 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-27 21:02:13,624 [main] INFO eBanking - Openning URL
+2022-04-27 21:02:19,111 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-27 21:02:19,192 [main] INFO eBanking - Entering done in password Test Box
+2022-04-27 21:02:20,797 [main] INFO eBanking - Clicking on login button is done
+2022-04-27 21:02:25,141 [main] INFO eBanking - Providing customer details....
+2022-04-27 21:02:32,518 [main] INFO eBanking - Validation Started......
+2022-04-27 21:02:32,624 [main] INFO eBanking - Closing browser
+2022-04-27 21:52:04,230 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-27 21:52:04,462 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-27 21:52:04,482 [main] INFO eBanking - Openning URL
+2022-04-27 21:52:09,672 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-27 21:52:09,757 [main] INFO eBanking - Entering done in password Test Box
+2022-04-27 21:52:13,381 [main] INFO eBanking - Clicking on login button is done
+2022-04-27 21:52:17,836 [main] INFO eBanking - Providing customer details....
+2022-04-27 21:52:25,347 [main] INFO eBanking - Validation Started......
+2022-04-27 21:52:25,479 [main] INFO eBanking - Closing browser
+2022-04-27 21:55:02,774 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-27 21:55:02,956 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-27 21:55:02,976 [main] INFO eBanking - Openning URL
+2022-04-27 21:55:07,414 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-27 21:55:07,495 [main] INFO eBanking - Entering done in password Test Box
+2022-04-27 21:55:08,979 [main] INFO eBanking - Clicking on login button is done
+2022-04-27 21:55:13,336 [main] INFO eBanking - Providing customer details....
+2022-04-27 21:55:22,471 [main] INFO eBanking - Validation Started......
+2022-04-27 21:55:22,491 [main] INFO eBanking - Performaing Assert True
+2022-04-27 21:55:22,494 [main] INFO eBanking - Test case passed....
+2022-04-27 21:55:22,498 [main] INFO eBanking - Closing browser
+2022-04-28 14:31:02,220 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-28 14:31:02,555 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-28 14:31:02,575 [main] INFO eBanking - Openning URL
+2022-04-28 14:31:09,959 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-28 14:31:10,060 [main] INFO eBanking - Entering done in password Test Box
+2022-04-28 14:31:11,796 [main] INFO eBanking - Clicking on login button is done
+2022-04-28 14:31:16,384 [main] INFO eBanking - Providing customer details....
+2022-04-28 14:31:23,896 [main] INFO eBanking - Validation Started......
+2022-04-28 14:31:24,053 [main] INFO eBanking - Closing browser
+2022-04-28 14:48:38,200 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-28 14:48:38,398 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-28 14:48:38,408 [main] INFO eBanking - Openning URL
+2022-04-28 14:48:43,662 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-28 14:48:43,760 [main] INFO eBanking - Entering done in password Test Box
+2022-04-28 14:48:45,658 [main] INFO eBanking - Clicking on login button is done
+2022-04-28 14:48:45,659 [main] INFO eBanking - Feattching titel of page
+2022-04-28 14:48:45,678 [main] INFO eBanking - Performaing Assert Equal with message
+2022-04-28 14:48:45,682 [main] INFO eBanking - Closing browser
+2022-04-28 14:51:23,856 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-28 14:51:24,082 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-28 14:51:24,093 [main] INFO eBanking - Openning URL
+2022-04-28 14:51:29,749 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-28 14:51:29,841 [main] INFO eBanking - Entering done in password Test Box
+2022-04-28 14:51:31,610 [main] INFO eBanking - Clicking on login button is done
+2022-04-28 14:51:36,093 [main] INFO eBanking - Providing customer details....
+2022-04-28 14:51:43,538 [main] INFO eBanking - Validation Started......
+2022-04-28 14:51:43,615 [main] INFO eBanking - Closing browser
+2022-04-28 14:59:55,928 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-28 14:59:56,118 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-28 14:59:56,130 [main] INFO eBanking - Openning URL
+2022-04-28 15:00:01,452 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-28 15:00:01,557 [main] INFO eBanking - Entering done in password Test Box
+2022-04-28 15:00:03,263 [main] INFO eBanking - Clicking on login button is done
+2022-04-28 15:00:07,953 [main] INFO eBanking - Providing customer details....
+2022-04-28 15:00:16,344 [main] INFO eBanking - Validation Started......
+2022-04-28 15:00:16,464 [main] INFO eBanking - Closing browser
+2022-04-28 15:03:50,871 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-28 15:03:51,048 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-28 15:03:51,065 [main] INFO eBanking - Openning URL
+2022-04-28 15:03:57,815 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-28 15:03:57,907 [main] INFO eBanking - Entering done in password Test Box
+2022-04-28 15:03:59,633 [main] INFO eBanking - Clicking on login button is done
+2022-04-28 15:04:04,145 [main] INFO eBanking - Providing customer details....
+2022-04-28 15:04:13,719 [main] INFO eBanking - Validation Started......
+2022-04-28 15:04:13,740 [main] INFO eBanking - Performaing Assert True
+2022-04-28 15:04:13,746 [main] INFO eBanking - Test case passed....
+2022-04-28 15:04:13,750 [main] INFO eBanking - Closing browser
+2022-04-28 17:03:46,265 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-28 17:03:46,461 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-28 17:03:46,476 [main] INFO eBanking - Openning URL
+2022-04-28 17:03:52,427 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-28 17:03:52,567 [main] INFO eBanking - Entering done in password Test Box
+2022-04-28 17:03:54,480 [main] INFO eBanking - Clicking on login button is done
+2022-04-28 17:03:54,480 [main] INFO eBanking - Feattching titel of page
+2022-04-28 17:03:54,500 [main] INFO eBanking - Performaing Assert Equal with message
+2022-04-28 17:03:54,506 [main] INFO eBanking - Closing browser
+2022-04-28 17:09:48,148 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-28 17:09:48,449 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-28 17:09:48,469 [main] INFO eBanking - Openning URL
+2022-04-28 17:10:05,953 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-28 17:10:06,217 [main] INFO eBanking - Entering done in password Test Box
+2022-04-28 17:10:07,875 [main] INFO eBanking - Clicking on login button is done
+2022-04-28 17:10:12,344 [main] INFO eBanking - Providing customer details....
+2022-04-28 17:10:21,886 [main] INFO eBanking - Validation Started......
+2022-04-28 17:10:21,910 [main] INFO eBanking - Performaing Assert True
+2022-04-28 17:10:21,912 [main] INFO eBanking - Test case passed....
+2022-04-28 17:10:21,916 [main] INFO eBanking - Closing browser
+2022-04-28 17:41:27,284 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-28 17:41:27,443 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-28 17:41:27,466 [main] INFO eBanking - Openning URL
+2022-04-28 17:41:32,431 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-28 17:41:32,540 [main] INFO eBanking - Entering done in password Test Box
+2022-04-28 17:41:34,520 [main] INFO eBanking - Clicking on login button is done
+2022-04-28 17:41:39,164 [main] INFO eBanking - Providing customer details....
+2022-04-28 17:41:48,575 [main] INFO eBanking - Validation Started......
+2022-04-28 17:41:48,598 [main] INFO eBanking - Performaing Assert True
+2022-04-28 17:41:48,601 [main] INFO eBanking - Test case passed....
+2022-04-28 17:41:48,605 [main] INFO eBanking - Closing browser
+2022-04-28 18:38:52,038 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-28 18:38:52,221 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-28 18:38:52,249 [main] INFO eBanking - Openning URL
+2022-04-28 18:38:57,524 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-28 18:38:57,608 [main] INFO eBanking - Entering done in password Test Box
+2022-04-28 18:38:59,525 [main] INFO eBanking - Clicking on login button is done
+2022-04-28 18:39:04,195 [main] INFO eBanking - Providing customer details....
+2022-04-28 18:39:13,641 [main] INFO eBanking - Validation Started......
+2022-04-28 18:39:13,661 [main] INFO eBanking - Performaing Assert True
+2022-04-28 18:39:13,663 [main] INFO eBanking - Test case passed....
+2022-04-28 18:39:13,668 [main] INFO eBanking - Closing browser
+2022-04-28 18:45:12,291 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-28 18:45:12,434 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-28 18:45:12,456 [main] INFO eBanking - Openning URL
+2022-04-28 18:45:18,944 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-28 18:45:19,086 [main] INFO eBanking - Entering done in password Test Box
+2022-04-28 18:45:20,689 [main] INFO eBanking - Clicking on login button is done
+2022-04-28 18:45:20,689 [main] INFO eBanking - Feattching titel of page
+2022-04-28 18:45:20,702 [main] INFO eBanking - Performaing Assert Equal with message
+2022-04-28 18:45:20,712 [main] INFO eBanking - Closing browser
+2022-04-28 19:02:13,506 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-28 19:02:13,651 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-28 19:02:15,227 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-28 19:02:15,424 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-28 19:02:15,441 [main] INFO eBanking - Openning URL
+2022-04-28 19:02:15,473 [main] INFO eBanking - Closing browser
+2022-04-28 19:09:29,027 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-28 19:09:29,167 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-28 19:09:29,190 [main] INFO eBanking - Openning URL
+2022-04-28 19:09:34,637 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-28 19:09:34,728 [main] INFO eBanking - Entering done in password Test Box
+2022-04-28 19:09:39,874 [main] INFO eBanking - Clicking on login button is done
+2022-04-28 19:09:44,449 [main] INFO eBanking - Providing customer details....
+2022-04-28 19:09:54,122 [main] INFO eBanking - Validation Started......
+2022-04-28 19:09:54,145 [main] INFO eBanking - Performaing Assert True
+2022-04-28 19:09:54,148 [main] INFO eBanking - Test case passed....
+2022-04-28 19:09:54,151 [main] INFO eBanking - Closing browser
+2022-04-28 19:16:01,084 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-28 19:16:01,252 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-28 19:16:01,277 [main] INFO eBanking - Openning URL
+2022-04-28 19:16:05,412 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-28 19:16:05,496 [main] INFO eBanking - Entering done in password Test Box
+2022-04-28 19:16:06,917 [main] INFO eBanking - Clicking on login button is done
+2022-04-28 19:16:06,917 [main] INFO eBanking - Feattching titel of page
+2022-04-28 19:16:06,929 [main] INFO eBanking - Performaing Assert Equal with message
+2022-04-28 19:16:06,934 [main] INFO eBanking - Closing browser
+2022-04-29 11:57:04,372 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-29 11:57:04,570 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-29 11:57:06,328 [main] INFO eBanking - Initlizing Chrome Driver
+2022-04-29 11:57:06,521 [main] INFO eBanking - Maximizing Chrome browser
+2022-04-29 11:57:06,556 [main] INFO eBanking - Openning URL
+2022-04-29 11:57:11,246 [main] INFO eBanking - Entering done in User Name Text Box
+2022-04-29 11:57:11,346 [main] INFO eBanking - Entering done in password Test Box
+2022-04-29 11:57:13,145 [main] INFO eBanking - Clicking on login button is done
+2022-04-29 11:57:17,526 [main] INFO eBanking - Providing customer details....
+2022-04-29 11:57:17,732 [main] INFO eBanking - Closing browser
+2022-05-02 11:32:00,278 [main] INFO eBanking - Initlizing Chrome Driver
+2022-05-02 11:32:00,482 [main] INFO eBanking - Maximizing Chrome browser
+2022-05-02 11:32:02,593 [main] INFO eBanking - Openning URL
+2022-05-02 11:32:06,702 [main] INFO eBanking - Entering done in User Name Text Box
+2022-05-02 11:32:06,799 [main] INFO eBanking - Entering done in password Test Box
+2022-05-02 11:32:18,264 [main] INFO eBanking - Performaing Assert False with message
+2022-05-02 11:32:18,274 [main] INFO eBanking - Openning URL
+2022-05-02 11:32:19,574 [main] INFO eBanking - Entering done in User Name Text Box
+2022-05-02 11:32:19,661 [main] INFO eBanking - Entering done in password Test Box
+2022-05-02 11:32:23,402 [main] INFO eBanking - Openning URL
+2022-05-02 11:32:26,688 [main] INFO eBanking - Entering done in User Name Text Box
+2022-05-02 11:32:26,808 [main] INFO eBanking - Entering done in password Test Box
+2022-05-02 11:32:30,589 [main] INFO eBanking - Openning URL
+2022-05-02 11:32:33,632 [main] INFO eBanking - Entering done in User Name Text Box
+2022-05-02 11:32:33,713 [main] INFO eBanking - Entering done in password Test Box
+2022-05-02 11:32:44,164 [main] INFO eBanking - Performaing Assert False with message
+2022-05-02 11:32:44,171 [main] INFO eBanking - Closing browser

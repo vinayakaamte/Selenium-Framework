@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TC_LoginDDT_002">
+	<listeners>
+		<listener class-name="com.eBanking.utilities.Reporting" />
+	</listeners>
+	<test thread-count="5" name="TC_LoginDDT_002">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.eBanking.testCases.TC_LoginDDT_002" />
+		</classes>
+	</test> <!-- TC_LoginDDT_002 -->
+</suite> <!-- TC_LoginDDT_002 -->
