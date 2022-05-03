@@ -6,6 +6,9 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.TestListenerAdapter;
@@ -18,6 +21,7 @@ import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.ChartLocation;
 import com.aventstack.extentreports.reporter.configuration.Theme;
+import com.eBanking.pageObjects.BaseDriver;
 
 public class Reporting extends TestListenerAdapter {
 
@@ -60,6 +64,13 @@ public class Reporting extends TestListenerAdapter {
 				.getProperty("user.dir") + File.separator + "Screenshots" + File.separator + tr.getName() + ".png";
 
 		File f = new File(screenshotPath);
+		TakesScreenshot ts = (TakesScreenshot)BaseDriver.driver;
+		File source =ts.getScreenshotAs(OutputType.FILE);
+		try {
+			FileUtils.copyFile(source, f);
+		} catch (IOException e1) {
+			e1.printStackTrace();
+		}
 
 		if (f.exists()) {
 			try {

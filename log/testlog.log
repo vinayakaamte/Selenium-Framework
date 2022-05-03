@@ -298,3 +298,20 @@
 2022-05-02 11:32:33,713 - eBanking -INFO - Entering done in password Test Box
 2022-05-02 11:32:44,164 - eBanking -INFO - Performaing Assert False with message
 2022-05-02 11:32:44,171 - eBanking -INFO - Closing browser
+2022-05-03 12:03:11,685 - eBanking -INFO - Initlizing Chrome Driver
+2022-05-03 12:03:11,869 - eBanking -INFO - Maximizing Chrome browser
+2022-05-03 12:03:14,947 - eBanking -INFO - Openning URL
+2022-05-03 12:03:19,179 - eBanking -INFO - Entering done in User Name Text Box
+2022-05-03 12:03:19,330 - eBanking -INFO - Entering done in password Test Box
+2022-05-03 12:03:30,097 - eBanking -INFO - Performaing Assert False with message
+2022-05-03 12:03:30,105 - eBanking -INFO - Openning URL
+2022-05-03 12:03:31,313 - eBanking -INFO - Entering done in User Name Text Box
+2022-05-03 12:03:31,479 - eBanking -INFO - Entering done in password Test Box
+2022-05-03 12:03:36,825 - eBanking -INFO - Openning URL
+2022-05-03 12:03:37,939 - eBanking -INFO - Entering done in User Name Text Box
+2022-05-03 12:03:38,030 - eBanking -INFO - Entering done in password Test Box
+2022-05-03 12:03:43,203 - eBanking -INFO - Openning URL
+2022-05-03 12:03:44,287 - eBanking -INFO - Entering done in User Name Text Box
+2022-05-03 12:03:44,424 - eBanking -INFO - Entering done in password Test Box
+2022-05-03 12:03:54,520 - eBanking -INFO - Performaing Assert False with message
+2022-05-03 12:03:54,528 - eBanking -INFO - Closing browser
